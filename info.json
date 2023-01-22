@@ -1,0 +1,15 @@
+{
+  "name": "DeadlockStackingForSPG",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Deadlock Stacking For SciencePackGalore",
+  "author": "nihilistzsche",
+  "homepage": "",
+  "dependencies": [
+    "base",
+    "deadlock-beltboxes-loaders >= 2.3.0",
+    "rusty-locale",
+    "SciencePackGalore"
+  ],
+  "description": "Add stacked items for SciencePackGalore"
+}
