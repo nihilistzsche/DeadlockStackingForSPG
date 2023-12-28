@@ -1,15 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.0.3
-Date: 2020.07.24
-  Changes:
-    - Found some items missing being stacked.
----------------------------------------------------------------------------------------------------
 Version: 0.0.2
-Date: 2020.07.23
+Date: 2023.12.27
   Changes:
-    - Fix dependencies
----------------------------------------------------------------------------------------------------
-Version: 0.0.1
-Date: 2020.07.23
-  Features:
-    - First cut
+    - Changed dependency from SciencePackGalore to SciencePackGaloreForked.
